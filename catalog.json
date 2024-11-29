@@ -1,0 +1,11 @@
+[
+  {
+    "type": "Book",
+    "author": "Me",
+    "genre": "Unknown",
+    "isbn": "12314234",
+    "title": "NewTestBook",
+    "yearOfPublication": 2024,
+    "numberOfPages": 234
+  }
+]
